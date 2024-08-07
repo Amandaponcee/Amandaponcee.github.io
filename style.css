@@ -20,7 +20,7 @@ header span{
 #nav-button{
     background-color: black;
 }
-.bi{
+.icon-habilidades{
     color: #c06c84;
 }
 .card1{
@@ -42,4 +42,7 @@ header span{
 .card1 .d-flex.flex-column{
     position: relative;
     z-index: 2;
+}
+footer{
+    background-color: #c06c84;
 }
