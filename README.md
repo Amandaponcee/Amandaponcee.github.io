@@ -7,8 +7,7 @@
 * JAVASCRIPT
 * BOOTSTRAP 5
 
-El portafolio puedes descubrirlo aquí[portafolio]
-(https://amandaponcee.github.io/)
+El portafolio puedes descubrirlo aquí [portafolio](https://amandaponcee.github.io/)
 ### El proyecto cuenta con las siguinetes secciones:
  * Sobre mi.
  * Habilidades.
@@ -19,6 +18,4 @@ El proposito de esta página web es mostrar mi portafolio como desarrolladora we
 
 # captura del proyecto
 ![captura del proyecto](/assets/Caportafolio.png)
-
-
 
